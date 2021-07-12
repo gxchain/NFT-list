@@ -1,0 +1,10 @@
+{
+	"list": [
+		{
+	        "img": "https://static.gxb.io/gxs/symbols/gxs.png",
+	        "nftName": "GXC官方系列",
+	        "devContract": "testnft",
+	        "prodContract": "gxc-nft"
+	    }
+	]
+}
