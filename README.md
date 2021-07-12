@@ -1,6 +1,6 @@
 A list of GXChain NFT detail informations
 
-## Steps to update NFT informations
+## Steps to update NFT detail informations
 
 1. Fork this repo
 2. Modify in your repo
