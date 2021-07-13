@@ -1,10 +1,16 @@
 {
-	"list": [
-		{
-	        "img": "https://static.gxb.io/gxs/symbols/gxs.png",
-	        "nftName": "GXC官方系列",
-	        "devContract": "testnft",
-	        "prodContract": "gxc-nft"
-	    }
-	]
+    "list": [
+        {
+            "img": "https://static.gxb.io/gxs/symbols/gxs.png",
+            "nftName": "GXC官方系列",
+            "devContract": "testnft",
+            "prodContract": "gxc-nft"
+        },
+        {
+            "img": "http://static.gxcfly.top/images/logogxc-fly-logo.png",
+            "nftName": "FLY定制系列",
+            "devContract": "gxc-fly-nft",
+            "prodContract": "gxc-fly-nft"
+        }
+    ]
 }
