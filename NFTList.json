@@ -17,6 +17,12 @@
             "nftName": "MOON自由创造系列",
             "devContract": "gxc-moon-nft",
             "prodContract": "gxc-moon-nft"
+        },
+        {
+            "img": "https://static.gxb.io/dapp/blockcity/nodevote/53.png",
+            "nftName": "GXChainTop系列",
+            "devContract": "test-nft-contract-nnn-1",
+            "prodContract": "gxc-gxt-nft"
         }
     ]
 }
