@@ -11,6 +11,12 @@
             "nftName": "FLY定制系列",
             "devContract": "gxc-fly-nft",
             "prodContract": "gxc-fly-nft"
+        },
+        {
+            "img": "https://static.gxb.io/dapp/blockcity/nodevote/20.png",
+            "nftName": "MOON自由创造系列",
+            "devContract": "gxc-moon-nft",
+            "prodContract": "gxc-moon-nft"
         }
     ]
 }
